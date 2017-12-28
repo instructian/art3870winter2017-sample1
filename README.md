@@ -1,20 +1,22 @@
 # art3870winter2017-sample1
 
-
-1. Set up your user account on github
-2. Open the github Desktop app
-3. Choose New Repository from the file menu ![Choose new repo from menu][one]
-4. Fill in the fields (make sure you pay attention to the paths!)![fill out the fields][two]
-5. Create the Repository - check on your computer for the folder ![check on your computer][three]
-6. Upload the Repository to GitHub by creating a commit message and Publishing GitHub (first time only)![publish][four]
-7. Make changes to the read me file
-8. Create a new commit message
-9. Commit the change
-10. Push Origin to upload ![Push Origin][five]
+|               |              |
+| ------------- |------------- |
+|  |   |
+|1. Set up your user account on github||
+|2. Open the github Desktop app||
+|3. Choose New Repository from the file menu| ![Choose new repo from menu][one]|
+|4. Fill in the fields (make sure you pay attention to the paths!)|![fill out the fields][two]|
+|5. Create the Repository - check on your computer for the folder| ![check on your computer][three]|
+|6. Upload the Repository to GitHub by creating a commit message and Publishing GitHub (first time only)|![publish][four]|
+|7. Make changes to the read me file|
+|8. Create a new commit message|
+|9. Commit the change|
+|10. Push Origin to upload| ![Push Origin][five]|
 
 ### Here is a Markdown Cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 ### Here is a introduction to github that you should watch https://youtu.be/BCQHnlnPusY
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BCQHnlnPusY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 
 
