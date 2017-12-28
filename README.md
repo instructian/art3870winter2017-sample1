@@ -15,9 +15,6 @@
 
 ### Here is a Markdown Cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 ### Here is a introduction to github that you should watch https://youtu.be/BCQHnlnPusY
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BCQHnlnPusY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-
-
 
 
 [one]: step1.png "New repo setup"
