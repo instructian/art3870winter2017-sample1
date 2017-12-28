@@ -1,5 +1,6 @@
 # art3870winter2017-sample1
 
+|              |              |
 |        ---      |        ---      |
 |1. Set up your user account on github||
 |2. Open the github Desktop app||
